@@ -27,7 +27,12 @@ function makeInt (n){
   return parseInt(n,10)
 }
 
+<<<<<<< HEAD
 function preserveDecimal (n){
   return parseFloat(n)
   return parseInt('n',10)
+=======
+function makeInt (n){
+  return parseInt(n,10)
+>>>>>>> 57d63303e5f6b2b363dbf34a0b5101f65d948b3d
 }
